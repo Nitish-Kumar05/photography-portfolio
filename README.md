@@ -2,6 +2,8 @@
 
 This is a responsive photography portfolio website built using Next.js and Tailwind CSS. It includes features like image sliders, a works section to display your photos, and a submit form.
 
+![Uploading Screenshot_20230918_140004.png…]()
+
 ## Features
 
 ### Responsive Design
