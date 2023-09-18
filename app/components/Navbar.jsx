@@ -43,12 +43,12 @@ const Navbar = () => {
                         </Link>
                     </li>
                     <li className='p-4'>
-                        <Link href='/work'>
+                        <Link href='/#work'>
                             Work
                         </Link>
                     </li>
                     <li className='p-4'>
-                        <Link href='/contact'>
+                        <Link href='/#contact'>
                             Contact
                         </Link>
                     </li>

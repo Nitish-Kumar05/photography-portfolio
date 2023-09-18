@@ -2,6 +2,8 @@ import Hero from "./components/Hero";
 import Instagram from "./components/Instagram";
 import Navbar from "./components/Navbar";
 import Slider from "./components/Slider";
+import Work from "./components/Work";
+import Contact from "./components/Contact";
 import { SliderData } from "./components/SliderData";
 
 export default function Home() {
@@ -14,6 +16,8 @@ export default function Home() {
       />
       <Slider slides={SliderData} />
       <Instagram />
+      <Work />
+      <Contact />
     </div>
   );
 }
