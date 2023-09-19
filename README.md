@@ -33,8 +33,3 @@ There is a contact form included in the website. You can customize and integrate
 - This project was created following a YouTube tutorial.
 - Thanks to the Next.js and Tailwind CSS communities for their great documentation and resources.
 
-## Contact
-
-If you have any questions or need further assistance, feel free to contact me at [mvnitishkumar@gmail.com].
-
-Enjoy showcasing your photography work with your new portfolio website!
