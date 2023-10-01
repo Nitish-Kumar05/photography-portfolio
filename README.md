@@ -25,8 +25,8 @@ There is a contact form included in the website. You can customize and integrate
 
 ## Technologies Used
 
-- Next.js.
-- Tailwind CSS.
+- Next.js
+- Tailwind CSS
 
 ## Acknowledgments
 
